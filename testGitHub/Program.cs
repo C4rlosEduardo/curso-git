@@ -11,6 +11,7 @@ namespace testGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Teste GitHub");
+            Console.WriteLine("teste de versão GitHub");
 
             Console.ReadLine();
         }
